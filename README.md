@@ -19,7 +19,7 @@ Analisis ini membantu memahami pola **konten yang paling menarik dan viral di Yo
 ---
 
 
-https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8cec-e28011b818c5
+link dashboard: https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8cec-e28011b818c5
 
 ## 📈 Dashboard Preview
 ![Dashboard Screenshot](Screenshot%202025-10-15%20001434.png)
