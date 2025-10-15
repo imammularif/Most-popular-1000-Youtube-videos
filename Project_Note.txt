@@ -1,14 +1,6 @@
 ---
 
-### 🧾 Project Note
-This repository is created as part of my personal data analytics portfolio.  
-All datasets are used for educational and analytical purposes only.  
-Feel free to explore or reference the project with proper credit. 🙌
-
----
-
-### ⚠️ Disclaimer
-This project is for **portfolio and educational purposes only**.  
-Not intended for commercial use.
-
-
+### ✨ About This Project
+Built with curiosity, caffeine, and a love for YouTube trends ☕📊  
+Part of my data analytics journey toward working in my dream company.  
+All rights reserved © 2025 Imam Mularif.
