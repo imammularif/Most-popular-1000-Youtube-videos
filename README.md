@@ -48,10 +48,5 @@ Feel free to explore or reference the project with proper credit. 🙌
 
 ---
 
-## ⚡ Next Steps (Optional)
-- Add Python notebook for exploratory data analysis (EDA)  
-- Explore correlations between views, likes, and categories  
-- Implement simple ML analysis for predicting video engagement
-
 
 
