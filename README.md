@@ -36,7 +36,7 @@ Proyek ini dibuat sebagai bagian dari latihan/PR untuk memperdalam kemampuan:
 link dashboard: https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8cec-e28011b818c5
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](Screenshot%202025-10-15%20001434.png)
+![Dashboard Screenshot](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/visualization/looker_dashboard_screenshot.png)
 
 
 ## Analyze With SQL 
