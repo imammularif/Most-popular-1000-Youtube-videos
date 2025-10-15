@@ -91,7 +91,7 @@ GROUP BY category
 ORDER BY jumlah DESC;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/3.png)
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/Screenshot%202025-10-15%20145929.png)
 
 4. 
  ```bash
