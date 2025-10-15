@@ -1,35 +1,29 @@
-# 🎥 Most Popular 1000 YouTube Videos Dashboard
+# Most Popular 1000 YouTube Videos
 
-Project ini bertujuan untuk menganalisis **1000 video YouTube paling populer di dunia** berdasarkan jumlah views, likes, dan kategori, lalu memvisualisasikannya menggunakan **Google Looker Studio**.  
-
-Analisis ini membantu memahami pola **konten yang paling menarik dan viral di YouTube.**
-
-## 🧩 Dataset dan Tools
-**Dataset:**
-- Sumber: Kaggle : https://www.kaggle.com/datasets/samithsachidanandan/most-popular-1000-youtube-videos
-- Format: CSV  
-- Jumlah record: 1000 video  
-- Variabel utama: `Video`, `Likes`, `Dislikes`, `Views`, `Category`, `Published Year`, `Rank`
-
-**Tools yang digunakan:**
-- 🧮 Excel / Google Sheets → data cleaning & eksplorasi awal  
-- 📊 Google Looker Studio → visualisasi dashboard  
-- 💻 (Opsional) Python Notebook → data preprocessing  
+## 📌 Project Overview
+This repository contains a comprehensive analysis of the top 1000 most popular YouTube videos globally.  
+The goal of this project is to **understand trends in video categories, engagement metrics, and global audience preferences**.
 
 ---
 
-## 🚀 Kesimpulan
-Dashboard ini menunjukkan bagaimana **kategori musik dan entertainment** masih menjadi pendorong utama popularitas di YouTube.  
-Proyek ini juga menjadi contoh penerapan **data visualization** untuk memahami tren digital dan perilaku audiens online.
+---
+
+## 🛠️ Tools Used
+- **Google Looker Studio** – interactive dashboard visualization  
+- **CSV Dataset** – raw video data  
+- Optional: Python / Jupyter Notebook for future analysis
 
 ---
 
-## 🧠 Tentang Proyek Ini
-Proyek ini dibuat sebagai bagian dari latihan/PR untuk memperdalam kemampuan:
-- Data Cleaning  
-- Data Visualization  
-- Data Storytelling  
-- Analytical Thinking  
+## 🔍 Key Insights from Dashboard
+- 🎵 **Music** category dominates ~60% of the top 1000 videos.  
+- 😂 **Entertainment / Comedy** content has high engagement (likes/views balanced).  
+- 🌎 Most popular videos are uploaded by **US-based channels**.  
+- ⏳ Older videos (2018–2020) still dominate over newer uploads.  
+
+> This dashboard helps visualize and explore global YouTube trends in an interactive way.
+
+---
 
 
 
@@ -107,11 +101,24 @@ order by video_views desc;
 
 ---
 
-### 👨‍💻 Author
-**Imammul arif**  
-📍 Dompu, Indonesia  
+## 🧾 Project Note
+This repository is created as part of my **personal data analytics portfolio**.  
+All datasets are used for **educational and analytical purposes only**.  
+Feel free to explore or reference the project with proper credit. 🙌
+
+---
+
+## 👨‍💻 Author
+**Imam Mularif**  
+📍 Jakarta, Indonesia  
 🔗 [LinkedIn](https://linkedin.com/in/imammularif) | [GitHub](https://github.com/imammularif)
 
+---
+
+## ⚡ Next Steps (Optional)
+- Add Python notebook for exploratory data analysis (EDA)  
+- Explore correlations between views, likes, and categories  
+- Implement simple ML analysis for predicting video engagement
 
 
 
