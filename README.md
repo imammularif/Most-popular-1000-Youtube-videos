@@ -58,7 +58,6 @@ count(`rank`) as `rank`
 from youtube_videos;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/1.png)
 
 2. 
  ```bash
@@ -72,7 +71,6 @@ from youtube_videos
 order by video_views desc limit 10;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.3.png)
 
 3. 
  ```bash
@@ -88,8 +86,6 @@ GROUP BY category
 ORDER BY jumlah DESC;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/Screenshot%202025-10-15%20145929.png)
-
 4. 
  ```bash
 select rank, video_views
@@ -97,9 +93,7 @@ from youtube_videos
 order by video_views desc;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/4.png)
 
----
 
 ## 🧾 Project Note
 This repository is created as part of my **personal data analytics portfolio**.  
