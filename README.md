@@ -45,6 +45,16 @@ Tools : Dbeaver
 
 Server : XAMPP/localhost
 
+Tipe data yang saya gunakan :
+- Rank : Serial (Primary key)
+- Video : Varchar
+- video_views : BigINT
+- likes : BigINT
+- dislikes BIGINT
+- category Varchar
+- published : Date
+
+
 1. 
  ```bash
  
