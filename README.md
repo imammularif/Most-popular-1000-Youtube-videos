@@ -105,4 +105,13 @@ order by video_views desc;
 
 ![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/4.png)
 
+---
+
+### 👨‍💻 Author
+**Imammul arif**  
+📍 Dompu, Indonesia  
+🔗 [LinkedIn](https://linkedin.com/in/imammularif) | [GitHub](https://github.com/imammularif)
+
+
+
 
