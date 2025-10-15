@@ -1,0 +1,6 @@
+---
+
+### 🧾 Project Note
+This repository is created as part of my personal data analytics portfolio.  
+All datasets are used for educational and analytical purposes only.  
+Feel free to explore or reference the project with proper credit. 🙌
