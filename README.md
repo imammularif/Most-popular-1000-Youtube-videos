@@ -68,14 +68,27 @@ from youtube_videos;
 
 2. 
  ```bash
- 
+select category,
+count(category) as jumlah
+from youtube_videos
+group by category 
+order by jumlah desc;
  ```
 
 ![Show table]()
 
 3. 
  ```bash
- 
+ SELECT 
+    category,
+    COUNT(category) AS jumlah,
+    ROUND(
+        (COUNT(category) * 100.0 / SUM(COUNT(category)) OVER ()),
+        2
+    ) AS persentase
+FROM youtube_videos
+GROUP BY category
+ORDER BY jumlah DESC;
  ```
 
 ![Show table]()
