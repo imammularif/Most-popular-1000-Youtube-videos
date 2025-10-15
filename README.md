@@ -95,7 +95,9 @@ ORDER BY jumlah DESC;
 
 4. 
  ```bash
- 
+select rank, video_views
+from youtube_videos
+order by video_views desc;
  ```
 
 ![Show table]()
