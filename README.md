@@ -68,14 +68,17 @@ from youtube_videos;
 
 2. 
  ```bash
-select category,
-count(category) as jumlah
+select video_views as vidio,
+likes,
+dislikes,
+video_views,
+rank,
+published 
 from youtube_videos
-group by category 
-order by jumlah desc;
+order by video_views desc limit 10;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.png)
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.2.png)
 
 3. 
  ```bash
