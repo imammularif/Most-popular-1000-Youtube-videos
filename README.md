@@ -68,7 +68,7 @@ from youtube_videos;
 
 2. 
  ```bash
-select video_views as vidio,
+select video,
 likes,
 dislikes,
 video_views,
@@ -78,7 +78,7 @@ from youtube_videos
 order by video_views desc limit 10;
  ```
 
-![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.2.png)
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.3.png)
 
 3. 
  ```bash
