@@ -110,7 +110,7 @@ Feel free to explore or reference the project with proper credit. 🙌
 
 ## 👨‍💻 Author
 **Imam Mularif**  
-📍 Jakarta, Indonesia  
+📍 Dompu, Indonesia  
 🔗 [LinkedIn](https://linkedin.com/in/imammularif) | [GitHub](https://github.com/imammularif)
 
 ---
