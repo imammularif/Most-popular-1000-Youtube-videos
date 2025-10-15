@@ -42,7 +42,7 @@ Feel free to explore or reference the project with proper credit. 🙌
 ---
 
 ## 👨‍💻 Author
-**Imam Mularif**  
+**Imammul arif**  
 📍 Dompu, Indonesia  
 🔗 [LinkedIn](https://linkedin.com/in/imammularif) | [GitHub](https://github.com/imammularif)
 
