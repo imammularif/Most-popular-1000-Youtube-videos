@@ -57,7 +57,11 @@ Tipe data yang saya gunakan :
 
 1. 
  ```bash
- 
+select SUM(video_views) as video_views,
+SUM(likes) as likes,
+SUM(dislikes) as dislikes,
+count(`rank`) as `rank` 
+from youtube_videos;
  ```
 
 ![Show table]()
