@@ -42,6 +42,7 @@ link dashboard: https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8ce
 ## Analyze With SQL 
 
 Tools : Dbeaver
+
 Server : XAMPP/localhost
 
 1. 
