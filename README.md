@@ -37,3 +37,39 @@ link dashboard: https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8ce
 
 ## 📈 Dashboard Preview
 ![Dashboard Screenshot](Screenshot%202025-10-15%20001434.png)
+
+
+## Analyze With SQL 
+
+Tools : Dbeaver
+Server : XAMPP/localhost
+
+1. 
+ ```bash
+ 
+ ```
+
+![Show table]()
+
+2. 
+ ```bash
+ 
+ ```
+
+![Show table]()
+
+3. 
+ ```bash
+ 
+ ```
+
+![Show table]()
+
+4. 
+ ```bash
+ 
+ ```
+
+![Show table]()
+
+
