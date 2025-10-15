@@ -64,7 +64,7 @@ count(`rank`) as `rank`
 from youtube_videos;
  ```
 
-![Show table]()
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/1.png)
 
 2. 
  ```bash
@@ -75,7 +75,7 @@ group by category
 order by jumlah desc;
  ```
 
-![Show table]()
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/2.png)
 
 3. 
  ```bash
@@ -91,7 +91,7 @@ GROUP BY category
 ORDER BY jumlah DESC;
  ```
 
-![Show table]()
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/3.png)
 
 4. 
  ```bash
@@ -100,6 +100,6 @@ from youtube_videos
 order by video_views desc;
  ```
 
-![Show table]()
+![Show table](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/Chapture/4.png)
 
 
