@@ -43,7 +43,7 @@ Feel free to explore or reference the project with proper credit. 🙌
 
 ## 👨‍💻 Author
 **Imammul arif**  
-📍 Dompu, Indonesia  
+📍 Indonesia(dimana aja boleh)hehe
 🔗 [LinkedIn](https://linkedin.com/in/imammularif) | [GitHub](https://github.com/imammularif)
 
 ---
