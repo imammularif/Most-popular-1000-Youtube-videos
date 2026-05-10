@@ -69,7 +69,7 @@ https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8cec-e28011b818c5
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/imammularif/youtube-trending-video-analysis/blob/main/visualization/looker_dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/visualization/looker_dashboard_screenshot.png)
 
 ---
 
