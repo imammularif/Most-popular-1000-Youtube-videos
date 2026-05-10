@@ -1,25 +1,56 @@
-# Most Popular 1000 YouTube Videos Analysis
+# 📊 YouTube Trending Video Analytics Dashboard
+
+![Google Looker Studio](https://img.shields.io/badge/Google-Looker%20Studio-blue)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-success)
+![CSV Dataset](https://img.shields.io/badge/Dataset-CSV-orange)
+![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-purple)
+
+---
 
 ## 📌 Project Overview
-This project analyzes the **Top 1000 Most Popular YouTube Videos Worldwide** to identify trends in content categories, engagement metrics, upload patterns, and audience preferences.
 
-The analysis is presented through an interactive dashboard built with **Google Looker Studio**.
+This project analyzes the **Top 1000 Most Popular YouTube Videos Worldwide** to identify trends in video categories, audience engagement, upload patterns, and global content preferences.
+
+The analysis is visualized through an interactive dashboard built using **Google Looker Studio** to transform raw data into meaningful business insights and storytelling.
 
 ---
 
 ## 🎯 Objectives
-- Analyze the most popular video categories on YouTube
-- Explore engagement metrics such as views, likes, and comments
-- Identify trends based on upload year and country
-- Visualize insights through an interactive dashboard
+- Analyze trending video categories on YouTube
+- Explore audience engagement metrics
+- Identify upload trends by year and country
+- Build an interactive analytics dashboard
+- Practice data storytelling and visualization
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Google Looker Studio** – dashboard visualization
-- **CSV Dataset** – raw data source
-- **Python (optional)** – future data preprocessing & analysis
-- **Jupyter Notebook (optional)**
+- **Google Looker Studio** – interactive dashboard visualization
+- **CSV Dataset** – raw dataset source
+- **Python** *(optional for future preprocessing & analysis)*
+- **Jupyter Notebook** *(optional)*
+
+---
+
+## 💡 Skills Demonstrated
+- Data Visualization
+- Dashboard Development
+- Data Storytelling
+- Trend Analysis
+- Insight Extraction
+
+---
+
+## 📂 Dataset Information
+
+The dataset contains metadata from the **Top 1000 Most Popular YouTube Videos**, including:
+- Video title
+- Video category
+- Views
+- Likes
+- Comments
+- Upload year
+- Channel country
 
 ---
 
@@ -38,16 +69,33 @@ https://lookerstudio.google.com/reporting/9cf686df-3bfb-49df-8cec-e28011b818c5
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/imammularif/Most-popular-1000-Youtube-videos/blob/main/visualization/looker_dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/imammularif/youtube-trending-video-analysis/blob/main/visualization/looker_dashboard_screenshot.png)
 
 ---
 
-## 📂 Project Purpose
-This repository is part of my **Data Analytics Portfolio Project** to demonstrate skills in:
-- Data visualization
-- Data storytelling
-- Dashboard development
-- Insight extraction
+## 🚀 Project Purpose
+
+This repository is part of my **Data Analytics Portfolio** to demonstrate practical skills in:
+- Data analysis
+- Interactive dashboard development
+- Visualization techniques
+- Analytical thinking and storytelling
+
+---
+
+## 🧠 Key Learnings
+- Building interactive dashboards with Looker Studio
+- Analyzing large datasets for insights
+- Transforming raw data into visual storytelling
+- Improving analytical and visualization skills
+
+---
+
+## 🚀 Future Improvements
+- Add advanced data preprocessing using Python
+- Integrate additional datasets for deeper analysis
+- Create predictive trend analysis
+- Improve dashboard interactivity
 
 ---
 
